@@ -1,7 +1,7 @@
 ![Animated Background](https://cdn.discordapp.com/attachments/991355951842066462/1292068860358299720/DAL.png?ex=67050765&is=6703b5e5&hm=208c2a657f41e64301a6cbee669258ce7fb06261c58a5eabb115e20dd58ad583&)
 
 <h1 align="center" style="font-family: Arial, sans-serif; color: #FF6F61; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-  BOT GHOST STATUS REMOVER
+  BOT GHOST STATUS REMOVER By Reza Sajjadian 
 </h1>
 
 <p align="center">
